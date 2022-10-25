@@ -24,19 +24,24 @@
     <tr valign="top">
         <td width="33%" align="center">
             <p><b>Trivia Guru</b></p>
-            <p>A site that enables users to take trivia quizzes and broaden their knowledge</p>
-            <p></p>
-            <img src="imgs/triviaguru.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
+            <p>A site that enables users to take trivia quizzes and broaden knowledge</p>
+            <a href="https://github.com/christysnwong/trivia">
+                <img src="imgs/triviaguru.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
+            </a>
         </td>
         <td width="33%" align="center">
             <p><b>Cooking Master</b></p>
             <p>A site that enables users to search and view thousands of recipes</p>
-            <img src="imgs/cookingmaster.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
+            <a href="https://github.com/christysnwong/cook">
+                <img src="imgs/cookingmaster.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
+            </a>
         </td>
         <td width="33%" align="center">
             <p><b>Pokemon Memory Game</b></p>
             <p>A site that allows users to test their memories and match Pokemon cards</p>
-            <img src="imgs/pokemonmemory.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
+            <a href="https://github.com/christysnwong/memorygame">
+                <img src="imgs/pokemonmemory.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
+            </a>
         </td>      
     </tr>
 
