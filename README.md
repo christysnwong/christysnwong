@@ -31,7 +31,7 @@
         </td>
         <td width="33%" align="center">
             <p><b>Trivia Guru</b></p>
-            <p>A site that enables users to take trivia quizzes and broaden knowledge</p>
+            <p>A site that lets users to take trivia quizzes and broaden knowledge</p>
             <a href="https://github.com/christysnwong/trivia">
                 <img src="imgs/triviaguru.JPG" alt-text="trivia-guru" height="200px" width="250px"/>
             </a>
